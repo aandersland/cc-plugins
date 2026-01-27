@@ -22,7 +22,7 @@ Add this plugin to your Claude Code configuration:
 # In your project's .claude/settings.json or global settings
 {
   "plugins": [
-    "/path/to/claude-code-plugins/plugins/debug-workflow"
+    "/path/to/cc-plugins/plugins/debug-workflow"
   ]
 }
 ```

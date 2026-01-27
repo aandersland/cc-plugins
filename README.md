@@ -15,7 +15,7 @@ Add plugins to your Claude Code configuration by specifying the path to the plug
 ```json
 {
   "plugins": [
-    "/path/to/claude-code-plugins/plugins/debug-workflow"
+    "/path/to/cc-plugins/plugins/debug-workflow"
   ]
 }
 ```
