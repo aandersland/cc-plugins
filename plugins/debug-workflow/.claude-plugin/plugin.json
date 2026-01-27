@@ -1,0 +1,8 @@
+{
+  "name": "debug-workflow",
+  "version": "1.0.0",
+  "description": "Systematic debugging workflow with hypothesis-driven investigation",
+  "author": {
+    "name": "Anthony Andersland"
+  }
+}
