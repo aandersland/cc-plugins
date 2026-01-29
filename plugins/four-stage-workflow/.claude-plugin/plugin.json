@@ -1,0 +1,8 @@
+{
+  "name": "four-stage-workflow",
+  "version": "1.0.0",
+  "description": "Comprehensive workflow plugin with design, build, debug, and ship stages",
+  "author": {
+    "name": "Anthony Andersland"
+  }
+}

@@ -7,6 +7,7 @@ A collection of plugins for [Claude Code](https://claude.com/claude-code).
 | Plugin | Description |
 |--------|-------------|
 | [debug-workflow](./plugins/debug-workflow/) | Systematic debugging workflow with hypothesis-driven investigation |
+| [four-stage-workflow](./plugins/four-stage-workflow/) | Comprehensive workflow plugin with design, build, debug, and ship stages |
 
 ## Installation
 
